@@ -1,0 +1,57 @@
+.nav-pills .nav-link.active {
+    color: #fff;
+    background-color: '#E49B0F';
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+.VirtualizedSelectOption {
+    background-color: #0f2937;
+    color: white;
+    font-size:1.6vh;
+ }
+ 
+ 
+.page-link:hover {
+  background-color: #20374c;
+}
+
+
+.rc-slider-track {
+  background-color: #00bfff;
+}
+
+.rc-slider-dot-active {  
+  border-color: #00bfff;
+  border: solid 2px #00bfff;
+  background-color: #0f2937;
+}
+
+.rc-slider-handle {
+  background-color: #0f2937;
+  border-color: #00bfff;
+}
+
+.rc-slider-handle:hover {
+  border-color: #00bfff;
+}
+
+.rc-slider-handle-active:active {
+  border-color: #00bfff;
+}
+
+.rc-slider-disabled{
+  background-color: #00bfff;
+}
+
+
+
+
+
+
+
+
+
+
