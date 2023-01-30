@@ -91,7 +91,7 @@ patsy==0.5.2
 pexpect==4.6.0
 Pillow==7.0.0
 plotly==5.5.0
-protobuf==3.6.1
+protobuf==3.18.3
 PyBluez==0.22
 pycairo==1.16.2
 pycups==1.9.73
