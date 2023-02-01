@@ -43,7 +43,7 @@ Flask-SQLAlchemy==2.5.1
 folium==0.12.1.post1
 fonttools==4.28.5
 fpdf==1.7.2
-future==0.18.2
+future==0.18.3
 geobuf==1.1.1
 geographiclib==1.52
 geopandas==0.10.2
