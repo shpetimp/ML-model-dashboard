@@ -49,7 +49,7 @@ geographiclib==1.52
 geopandas==0.10.2
 geopy==2.2.0
 greenlet==1.1.2
-httplib2==0.14.0
+httplib2==0.19.0
 ibm-cos-sdk==2.7.0
 ibm-cos-sdk-core==2.7.0
 ibm-cos-sdk-s3transfer==2.7.0
