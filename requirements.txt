@@ -13,7 +13,7 @@ cligj==0.7.2
 colorama==0.4.3
 command-not-found==0.3
 country-converter==0.7.4
-cryptography==39.0.1
+cryptography==41.0.2
 cupshelpers==1.0
 cycler==0.11.0
 dash==2.0.0
