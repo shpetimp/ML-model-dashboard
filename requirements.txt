@@ -54,7 +54,7 @@ ibm-cos-sdk==2.7.0
 ibm-cos-sdk-core==2.7.0
 ibm-cos-sdk-s3transfer==2.7.0
 ibm-watson-machine-learning==1.0.178
-idna==2.8
+idna==3.7
 importlib-metadata==4.10.1
 itsdangerous==2.0.1
 Jinja2==3.1.3
