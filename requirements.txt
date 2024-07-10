@@ -114,7 +114,7 @@ reportlab==3.6.13
 requests==2.32.0
 requests-unixsocket==0.2.0
 Rtree==0.9.7
-scikit-learn==1.0.2
+scikit-learn==1.5.0
 scipy==1.10.0
 SecretStorage==2.3.1
 Shapely==1.8.0
