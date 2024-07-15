@@ -137,4 +137,4 @@ wadllib==1.3.3
 Werkzeug==3.0.3
 wrapt==1.13.3
 xkit==0.0.0
-zipp==3.7.0
+zipp==3.19.1
